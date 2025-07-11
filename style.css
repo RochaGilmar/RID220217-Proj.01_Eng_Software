@@ -1,0 +1,290 @@
+*{
+    margin: 0px;
+   
+}
+#block1{
+
+    background-image: url("./imagens/fundo1.svg");
+    position: relative;
+}
+#block1-imagem1{
+
+    width: 1440px;
+    height: 475px;
+    background: #303030;
+    position:absolute;
+}
+#block1-titulo1{
+    width: 1024px;
+    height: 72px;
+    margin-top: 206px;
+    margin-left: 62px;
+    position: absolute;
+    color: #FFFFFF;
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 72px;
+    letter-spacing: -2.5%;
+    font-family: 'Inter', sans-serif;
+
+}
+#block1-texto1{
+    width: 1024px;
+    height: 28px;
+    margin-top: 298px;
+    margin-left: 62px;
+    position: absolute;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0%;
+    font-family: 'Inter', sans-serif;
+}
+#block2{
+    display: flex;
+    background-image: url("./imagens/fundo2.svg");
+    background-color: #F9F9F9;
+    position: relative;
+    
+
+}
+#block2-imagem2{
+    width: 1440px;
+    height: 229px;
+    margin-top: -42px;
+    margin-left: -656px;
+    position: absolute;
+    padding-top: 517px;
+    padding-left: 656px;
+    
+
+}
+#block2-titulo1{
+    width: 292px;
+    height: 66.18px;
+    margin-top: 54px;
+    margin-left: -485px;
+    position: absolute;
+    color: #000000;
+    padding-top: 500px;
+    padding-left: 650px;
+    font-size: 40px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+    
+} 
+#block2-texto1{
+    width: 1024px;
+    height: 28px;
+    margin-top: 298px;
+    margin-left: 62px;
+    position: absolute;
+    color: #000000;
+    padding-top: 300px;
+    padding-left: 100px;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+} 
+#block2-titulo2{
+    width: 354px;
+    height: 66.67px;
+    margin-top: 54px;
+    margin-left: -94px;
+    position: absolute;
+    color: #000000;
+    padding-top: 500px;
+    padding-left: 650px;
+    font-size: 40px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    font-weight: 600; 
+    font-family: 'Inter', sans-serif;
+}
+#block2-texto2{
+    width: 354px;
+    height: 67px;
+    margin-top: 54px;
+    margin-left: -94px;
+    position: absolute;
+    color: #000000;
+    padding-top: 545px;
+    padding-left: 650px;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+}
+
+
+#block2-titulo3{
+    width: 361px;
+    height: 88px;
+    margin-top: 54px;
+    margin-left: 359px;
+    position: absolute;
+    color: #000000;
+    padding-top: 500px;
+    padding-left: 650px;
+    font-size: 40px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    font-weight: 600; 
+    font-family: 'Inter', sans-serif;
+}
+#block2-texto3{
+    width: 354px;
+    height: 67px;
+    margin-top: 54px;
+    margin-left: -94px;
+    position: absolute;
+    color: #000000;
+    padding-top: 545px;
+    padding-left: 1100px;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+}
+#block3{
+    display: flex;
+    background-color: white;
+    position: relative   
+} 
+#block3-imagem1{
+    width: 510px;
+    height: 605px;
+    margin-top: 781px;
+    margin-left: 876px;
+    position: absolute;
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-bottom: 50px;
+}  
+#block3-titulo1{
+    width: 735px;
+    height: 161px;
+    margin-top: 1003px;
+    position: absolute;
+    margin-left: 77px;
+    padding-top: 0px;
+    padding-left: 0px;
+    font-size: 40px;
+    line-height: 20px;
+    margin-bottom: 6px;
+    letter-spacing: 0px;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+}
+#block3-texto1{
+    width: 735px;
+    height: 161px;
+    margin-top: 1003px;
+    position: absolute;
+    margin-left: 77px;
+    padding-top: 80px;
+    padding-left: 0px;
+    font-size: 24px;
+    line-height: 30px;
+    margin-bottom: 6px;
+    letter-spacing: 0%;
+    font-weight: 300;
+    vertical-align: middle;
+    font-family: 'Inter', sans-serif;
+}
+#block3-imagem2{
+    width: 1440px;
+    height: 638px;
+    margin-top: 1478px;
+    position: absolute;
+    padding-top: 0px;
+    padding-left: 0px;
+}  
+#block3-titulo2{
+    display: flex;
+    width: 944px;
+    height: 48px;
+    margin-top: 1565px;
+    margin-left: 248px;
+    padding-top: 0px;
+    padding-left: 0px;
+    font-size: 32px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    font-weight: 700;
+    position: absolute;
+    color: #FFFFFF;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+}
+#block4{
+    position: absolute;  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    padding: 0px 0px;
+    font-family: "Raleway", sans-serif;
+}
+
+#block3-input1{
+    width: 508px;
+    height: 72px;
+    margin-top: 1661px;
+    margin-left: 466px;
+    border-radius: 10px;
+    position: absolute; 
+    font-family: "Raleway", sans-serif;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    font-weight: 700;
+    color: #0000004D, 30%;
+     
+}
+#block3-input2{
+    width: 508px;
+    height: 72px;
+    margin-top: 1795px;
+    margin-left: 466px;
+    border-radius: 10px;
+    position: absolute;
+    font-family: "Raleway", sans-serif;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    font-weight: 700;
+    color:#0000004D, 30%;
+    
+    
+}
+#block3-button1{
+    width: 286px;
+    height: 74px;
+    margin-top: 1955px;
+    margin-left: 577px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    border-radius: 10px;
+    background-color: #C07212;
+    color: #FFFFFF;
+    font-size: 30px;
+    line-height: 30px;
+    margin-bottom: 6px;
+    letter-spacing: 0%;
+    position: absolute;
+    vertical-align: middle;
+    
+  
+}
